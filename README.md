@@ -1,3 +1,5 @@
 # Blogspot
 Ignore this repository
-This repository is made for some test and learning
+<br/>This repository is made for some test and learning
+
+Some content may be subject to copyright
